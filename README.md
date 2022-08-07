@@ -1,1 +1,2 @@
-# JS-Mechanism
+# JS-Mechanism学習用リポジトリ
+
